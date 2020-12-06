@@ -360,6 +360,37 @@
 </ul>
 </details>
 
+<a name=Weng_2020_ECCV/>
+<details close>
+<summary><strong><em>Weng et al., "Joint 3D Tracking and Forecasting with Graph Neural Network and Diversity Sampling", ECCV, 2020.</em></strong> <a href=https://arxiv.org/pdf/2003.07847>arxiv</a> </summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="../datasets/datasets.md#kitti">KITTI</a></li>
+</ul>
+<em>Metrics</em>
+<ul>
+<li>CLEAR</li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Weng_2020_ECCV,
+    author = "Xinshuo Weng, Ye Yuan, Kris Kitani",
+    title = "Joint 3D Tracking and Forecasting with Graph Neural Network and Diversity Sampling",
+    booktitle = "ECCV",
+    year = "2020"
+}
+</pre>
+</details>
+
+
+
+
+</ul>
+</details>
+
 <a name=Yu_2020_ECCV/>
 <details close>
 <summary><strong><em>Yu et al., "Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570494.pdf>paper</a> <a href=https://arxiv.org/pdf/2005.08514.pdf>arxiv</a></summary>
