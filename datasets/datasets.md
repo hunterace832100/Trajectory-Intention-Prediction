@@ -18,7 +18,7 @@
 <h2>Trajectory</h2> 
 <ul><a name=ucy></a>
 <details close>
-<summary><l style="font-size:20px"><strong>UCY</strong></l> <a href=https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data>link</a> <a href=https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2007.01089.x>paper</a></summary> 
+<summary><l style="font-size:20px"><strong>UCY</strong></l> <a href=https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data.html>link</a> <a href=https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2007.01089.x>paper</a></summary> 
 <ul><li>
 <em><strong>Summary:</strong></em> 
 A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdoor environments containing 4 videos
@@ -45,7 +45,7 @@ A dataset of surveillance videos capturing 900+ pedestrian trajectories in outdo
 </ul></details>
 <a name=eth></a>
 <details close>
-<summary><l style="font-size:20px"><strong>ETH</strong></l> <a href=https://icu.ee.ethz.ch/research/datsets.html>link</a> <a href=https://ieeexplore.ieee.org/document/5459260>paper</a></summary> 
+<summary><l style="font-size:20px"><strong>ETH</strong></l> <a href=https://icu.ee.ethz.ch/research/datsets.html>link</a> <a href=https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjixdLTurPtAhWMGaYKHZNcDEwQFjAAegQIAhAC&url=http%3A%2F%2Fvision.cse.psu.edu%2Fcourses%2FTracking%2Fvlpr12%2FPellegriniNeverWalkAlone.pdf&usg=AOvVaw37l3BEnJz_dAfzeX6aNQyC>paper</a></summary> 
 <ul><li>
 <em><strong>Summary:</strong></em> 
 A dataset of pedestrian trajectory with 650 tracks in 25+ minutes of video footage
