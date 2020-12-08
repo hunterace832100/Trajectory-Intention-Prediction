@@ -1087,30 +1087,6 @@ An RGBD dataset of objects with corresponding 3D bounding boxes collected using 
 </details>
 
 </ul></details>
-<a name=volleyball></a>
-<details close>
-<summary><l style="font-size:20px"><strong>Volleyball</strong></l> <a href=https://github.com/mostafa-saad/deep-activity-rec#dataset>link</a> <a href=https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ibrahim_A_Hierarchical_Deep_CVPR_2016_paper.pdf>paper</a> <a href=https://arxiv.org/pdf/1511.06040.pdf>arxiv</a></summary> 
-<ul><li>
-<em><strong>Summary:</strong></em> 
-A dataset of 4830 frames from 55 videos with 9 player action labels and 8 team activity labels
-</li>
-<li>
-<em><strong>Applications:</strong></em>Action prediction, Trajectory prediction</li>
-<li><em><strong>Data type and annotations:</strong></em> RGB, Activity label, Bounding box</li>
-<li><em><strong>Task:</strong></em> Sport</li>
-</ul><ul style="margin-left:-15px"><details close>
-<summary><strong>Bibtex</strong></summary>
-<pre>
-@InProceedings{Ibrahim_2016_CVPR,
-    author = "Ibrahim, Mostafa S and Muralidharan, Srikanth and Deng, Zhiwei and Vahdat, Arash and Mori, Greg",
-    title = "A hierarchical deep temporal model for group activity recognition",
-    booktitle = "CVPR",
-    year = "2016"
-}
-</pre>
-</details>
-
-</ul></details>
 <a name=lyft></a>
 <details close>
 <summary><l style="font-size:20px"><strong>Lyft</strong></l> <a href=https://self-driving.lyft.com/level5/data/>link</a></summary> 

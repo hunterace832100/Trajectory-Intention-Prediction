@@ -4,7 +4,7 @@
 ---
 
 <a name=trajectory></a>
-<h2 style="color:#30bd19";> Focus on reading articles（Code available）</h2> 
+<h2 style="color:#30bd19";> Key Papers（Code available）</h2> 
 
 以下是重点在看的相关文章，按照发表时间进行的排序。文章的相关信息***点击文章名称***可查看其对应的相关信息：
 
@@ -110,6 +110,39 @@
 }
 </pre>
 </details>
+
+</ul>
+</details>
+
+<a name=Cheng_2020_CVPR/>
+<details close>
+<summary><strong><em>Cheng et al., "Exploring  Dynamic  Context  for  Multi-path  Trajectory  Prediction", CVPR, 2020.</em></strong> <a href=https://arxiv.org/pdf/2010.16267>paper</a> <a href=https://github.com/wtliao/DCENet>code</a></summary>
+<ul>
+<em>Datasets</em>
+<ul>
+<li><a href="../datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="../datasets/datasets.md#eth">ETH</a></li>
+<li><a href="../datasets/datasets.md#sd">SD</a></li>
+
+
+</ul>
+<em>Metrics</em>
+<ul>
+<li><a href="../metrics.md#ade">ADE</a></li>
+<li><a href="../metrics.md#fde">FDE</a></li>
+</ul>
+<details close>
+<summary><em>Bibtex</em></summary>
+<pre>
+@InProceedings{Cheng_2020_CVPR,
+    author = "Hao,Cheng and Wentong,Liao and Xuejiao,Tang and Michael Ying,Yang",
+    title = "Exploring  Dynamic  Context  for  Multi-path  Trajectory  Prediction",
+    booktitle = "CVPR",
+    year = "2020"
+}
+</pre>
+</details>
+
 
 </ul>
 </details>

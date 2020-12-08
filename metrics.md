@@ -2,19 +2,14 @@
 <a href=README.md#top><l style="font-size:30px">Home</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=papers/papers.md#top><l style="font-size:30px">Papers</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=datasets/datasets.md#top><l style="font-size:30px">Datasets</l></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<l style="font-size:35px">Metrics</l>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ---
 <a name=top></a>
-# Metrics for vision-based prediction
- <img src="./images/video_metrics.png" alt="video metrics" width="250"/><img src="./images/action_metrics.png" alt="action metrics" width="250"/><img src="./images/trajectory_metrics.png" alt="trajectory metrics" width="280"/><img src="./images/motion_metrics.png" alt="motion metrics" width="210"/><br/>
-In this page you can find the *metrics* used in vision-based prediction applications.The metrics are **sorted** based on **popularity**, (i.e how often used in prediction papers) and categorized into 5 groups:
-* [Video](#metrics_video)
-* [Action](#metrics_action)
-* [Trajectory](#metrics_trajectory)
-* [Motion](#metrics_motion)
-* [Other](#metrics_other)<br/>
+# 轨迹预测相关评价指标
+此部分显示与**轨迹预测**相关的评价指标。指标的排序通过在文章中使用的频繁程度来进行排序。
 
-By clicking on each metric you can see the list of papers that used that metric. Each paper also can be expanded to display its information.
+
+通过点击相应的评价指标，可以看到使用其指标的相关文章。
 
 </ul><a name=metrics_trajectory></a>
-<h2 style="color:#30bd19">  Trajectory Prediction </h2><a href=#top>&uarr; top</a>
+<h2 style="color:#30bd19">  Trajectory Prediction </h2>
 <ul><a name=ade></a>
 <details close>
 <summary><em><l style="font-size:20px"><strong>Average Displacement Error (ADE)</strong></l>
@@ -25,10 +20,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/year_datasets.md#apolloscape">ApolloScape</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#apolloscape">ApolloScape</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -59,8 +54,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -86,7 +81,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
 <li>Custom</li>
 
 </ul>
@@ -114,7 +109,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#titan">TITAN</a></li>
+<li><a href="datasets/datasets.md#titan">TITAN</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -142,8 +137,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#orc">ORC</a></li>
+<li><a href="datasets/datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/datasets.md#orc">ORC</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -169,7 +164,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#waymo">Waymo</a></li>
+<li><a href="datasets/datasets.md#waymo">Waymo</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -195,8 +190,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -222,8 +217,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#wod">WOD</a></li>
-<li><a href="datasets/year_datasets.md#lyft">Lyft</a></li>
+<li><a href="datasets/datasets.md#wod">WOD</a></li>
+<li><a href="datasets/datasets.md#lyft">Lyft</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -250,8 +245,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
-<li><a href="datasets/year_datasets.md#forking_paths">Forking Paths</a></li>
+<li><a href="datasets/datasets.md#virat/actev">VIRAT/ActEV</a></li>
+<li><a href="datasets/datasets.md#forking_paths">Forking Paths</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -279,8 +274,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -306,7 +301,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -335,7 +330,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
 <li>Custom</li>
 
 </ul>
@@ -364,8 +359,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -384,31 +379,6 @@ By clicking on each metric you can see the list of papers that used that metric.
 </pre>
 </details>
 
-</ul>
-</details>
-<details close>
-<summary><strong><em>Chen et al., "Group Activity Prediction with Sequential Relational Anticipation Model", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660579.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.02441.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/year_datasets.md#volleyball">Volleyball</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#ade">ADE</a></li>
-<li><a href="metrics.md#fde">FDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Chen_2020_ECCV,
-    author = "Chen, Junwen and Bao, Wentao and Kong, Yu",
-    title = "Group Activity Prediction with Sequential Relational Anticipation Model",
-    booktitle = "ECCV",
-    year = "2020"
-}
-</pre>
-</details>
 
 </ul>
 </details>
@@ -417,8 +387,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -444,9 +414,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -472,8 +442,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -503,9 +473,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -534,9 +504,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -590,7 +560,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
 <li>Custom</li>
 
 </ul>
@@ -618,8 +588,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -645,9 +615,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -673,7 +643,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#citywalks">Citywalks</a></li>
+<li><a href="datasets/datasets.md#citywalks">Citywalks</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -699,8 +669,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -726,7 +696,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
 <li>Custom</li>
 
 </ul>
@@ -754,7 +724,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 <li>Custom</li>
 
 </ul>
@@ -785,7 +755,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -814,8 +784,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -844,8 +814,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="datasets/year_datasets.md#traf">TRAF</a></li>
+<li><a href="datasets/datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/datasets.md#traf">TRAF</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -899,9 +869,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#virat/actev">VIRAT/ActEV</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -927,8 +897,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -954,8 +924,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -981,10 +951,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1011,7 +981,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/datasets.md#ngsim">NGSIM</a></li>
 <li>Custom</li>
 
 </ul>
@@ -1039,9 +1009,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1067,8 +1037,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1094,8 +1064,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
-<li><a href="datasets/year_datasets.md#pie">PIE</a></li>
+<li><a href="datasets/datasets.md#jaad">JAAD</a></li>
+<li><a href="datasets/datasets.md#pie">PIE</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1121,8 +1091,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1201,7 +1171,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1226,8 +1196,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1254,7 +1224,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1279,10 +1249,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="datasets/year_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#interaction">INTERACTION</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1308,9 +1278,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
-<li><a href="datasets/year_datasets.md#oxford">Oxford</a></li>
+<li><a href="datasets/datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/datasets.md#oxford">Oxford</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1361,8 +1331,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1446,8 +1416,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#eifp">EIFP</a></li>
-<li><a href="datasets/year_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
+<li><a href="datasets/datasets.md#eifp">EIFP</a></li>
+<li><a href="datasets/datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1473,10 +1443,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="datasets/year_datasets.md#pets2009">PETS2009</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#pets2009">PETS2009</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1502,7 +1472,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#mot">MOT</a></li>
+<li><a href="datasets/datasets.md#mot">MOT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1527,7 +1497,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#cityperson">CityPerson</a></li>
+<li><a href="datasets/datasets.md#cityperson">CityPerson</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1553,8 +1523,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1580,8 +1550,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#town_center">Town Center</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1607,8 +1577,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ca">CA</a></li>
-<li><a href="datasets/year_datasets.md#sbuki">SBUKI</a></li>
+<li><a href="datasets/datasets.md#ca">CA</a></li>
+<li><a href="datasets/datasets.md#sbuki">SBUKI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1633,10 +1603,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="datasets/year_datasets.md#chuk">CHUK</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#gc">GC</a></li>
+<li><a href="datasets/datasets.md#chuk">CHUK</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1663,7 +1633,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#btd">BTD</a></li>
+<li><a href="datasets/datasets.md#btd">BTD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1690,8 +1660,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1718,8 +1688,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#strands">STRANDS</a></li>
-<li><a href="datasets/year_datasets.md#l-cas">L-CAS</a></li>
+<li><a href="datasets/datasets.md#strands">STRANDS</a></li>
+<li><a href="datasets/datasets.md#l-cas">L-CAS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1745,8 +1715,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1826,8 +1796,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#town_center">Town Center</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1854,8 +1824,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1881,7 +1851,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1934,8 +1904,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1962,8 +1932,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="datasets/year_datasets.md#qmul">QMUL</a></li>
+<li><a href="datasets/datasets.md#gc">GC</a></li>
+<li><a href="datasets/datasets.md#qmul">QMUL</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -1989,8 +1959,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2016,7 +1986,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="datasets/datasets.md#gc">GC</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2043,7 +2013,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#virat">VIRAT</a></li>
+<li><a href="datasets/datasets.md#virat">VIRAT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2096,7 +2066,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#daimler_path">Daimler Path</a></li>
+<li><a href="datasets/datasets.md#daimler_path">Daimler Path</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2130,10 +2100,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/year_datasets.md#apolloscape">ApolloScape</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#apolloscape">ApolloScape</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2164,8 +2134,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2191,7 +2161,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
 <li>Custom</li>
 
 </ul>
@@ -2219,10 +2189,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/year_datasets.md#wod">WOD</a></li>
-<li><a href="datasets/year_datasets.md#fit">FIT</a></li>
-<li><a href="datasets/year_datasets.md#mapillary_vistas">Mapillary Vistas</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#wod">WOD</a></li>
+<li><a href="datasets/datasets.md#fit">FIT</a></li>
+<li><a href="datasets/datasets.md#mapillary_vistas">Mapillary Vistas</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2249,7 +2219,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#titan">TITAN</a></li>
+<li><a href="datasets/datasets.md#titan">TITAN</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2277,8 +2247,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#orc">ORC</a></li>
+<li><a href="datasets/datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/datasets.md#orc">ORC</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2304,7 +2274,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#waymo">Waymo</a></li>
+<li><a href="datasets/datasets.md#waymo">Waymo</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2330,7 +2300,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
 <li>Custom</li>
 
 </ul>
@@ -2358,8 +2328,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2385,8 +2355,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
-<li><a href="datasets/year_datasets.md#forking_paths">Forking Paths</a></li>
+<li><a href="datasets/datasets.md#virat/actev">VIRAT/ActEV</a></li>
+<li><a href="datasets/datasets.md#forking_paths">Forking Paths</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2414,8 +2384,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2441,7 +2411,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2470,7 +2440,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
 <li>Custom</li>
 
 </ul>
@@ -2499,8 +2469,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2519,31 +2489,6 @@ By clicking on each metric you can see the list of papers that used that metric.
 </pre>
 </details>
 
-</ul>
-</details>
-<details close>
-<summary><strong><em>Chen et al., "Group Activity Prediction with Sequential Relational Anticipation Model", ECCV, 2020.</em></strong> <a href=https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660579.pdf>paper</a> <a href=https://arxiv.org/pdf/2008.02441.pdf>arxiv</a></summary>
-<ul>
-<em>Datasets</em>
-<ul>
-<li><a href="datasets/year_datasets.md#volleyball">Volleyball</a></li>
-</ul>
-<em>Metrics</em>
-<ul>
-<li><a href="metrics.md#ade">ADE</a></li>
-<li><a href="metrics.md#fde">FDE</a></li>
-</ul>
-<details close>
-<summary><em>Bibtex</em></summary>
-<pre>
-@InProceedings{Chen_2020_ECCV,
-    author = "Chen, Junwen and Bao, Wentao and Kong, Yu",
-    title = "Group Activity Prediction with Sequential Relational Anticipation Model",
-    booktitle = "ECCV",
-    year = "2020"
-}
-</pre>
-</details>
 
 </ul>
 </details>
@@ -2552,8 +2497,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2579,9 +2524,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2607,8 +2552,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2638,9 +2583,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2669,9 +2614,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2698,7 +2643,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
 <li>Custom</li>
 
 </ul>
@@ -2726,8 +2671,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2753,9 +2698,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2781,7 +2726,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#citywalks">Citywalks</a></li>
+<li><a href="datasets/datasets.md#citywalks">Citywalks</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2807,8 +2752,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2834,7 +2779,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
 <li>Custom</li>
 
 </ul>
@@ -2862,7 +2807,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2890,7 +2835,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 <li>Custom</li>
 
 </ul>
@@ -2921,7 +2866,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2950,8 +2895,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -2980,8 +2925,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="datasets/year_datasets.md#traf">TRAF</a></li>
+<li><a href="datasets/datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/datasets.md#traf">TRAF</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3007,9 +2952,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#virat/actev">VIRAT/ActEV</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3035,8 +2980,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3062,8 +3007,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3089,10 +3034,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3119,7 +3064,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/datasets.md#ngsim">NGSIM</a></li>
 <li>Custom</li>
 
 </ul>
@@ -3147,9 +3092,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3175,8 +3120,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3202,8 +3147,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
-<li><a href="datasets/year_datasets.md#pie">PIE</a></li>
+<li><a href="datasets/datasets.md#jaad">JAAD</a></li>
+<li><a href="datasets/datasets.md#pie">PIE</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3229,8 +3174,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3283,8 +3228,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3311,10 +3256,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="datasets/year_datasets.md#interaction">INTERACTION</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#interaction">INTERACTION</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3340,8 +3285,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3425,8 +3370,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#eifp">EIFP</a></li>
-<li><a href="datasets/year_datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
+<li><a href="datasets/datasets.md#eifp">EIFP</a></li>
+<li><a href="datasets/datasets.md#lankershim_boulevard">Lankershim Boulevard</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3452,10 +3397,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="datasets/year_datasets.md#pets2009">PETS2009</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#pets2009">PETS2009</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3481,8 +3426,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3508,8 +3453,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#town_center">Town Center</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3561,10 +3506,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="datasets/year_datasets.md#chuk">CHUK</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#gc">GC</a></li>
+<li><a href="datasets/datasets.md#chuk">CHUK</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3591,8 +3536,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3619,8 +3564,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3646,8 +3591,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#town_center">Town Center</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3674,8 +3619,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3701,8 +3646,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3729,7 +3674,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#gc">GC</a></li>
+<li><a href="datasets/datasets.md#gc">GC</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3790,7 +3735,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
 <li>Custom</li>
 
 </ul>
@@ -3898,7 +3843,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#eifp">EIFP</a></li>
+<li><a href="datasets/datasets.md#eifp">EIFP</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -3975,7 +3920,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4000,8 +3945,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4081,7 +4026,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#tum_kitchen">TUM Kitchen</a></li>
+<li><a href="datasets/datasets.md#tum_kitchen">TUM Kitchen</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4106,8 +4051,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="datasets/year_datasets.md#mitt">MITT</a></li>
+<li><a href="datasets/datasets.md#gc">GC</a></li>
+<li><a href="datasets/datasets.md#mitt">MITT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4133,7 +4078,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#daimler_path">Daimler Path</a></li>
+<li><a href="datasets/datasets.md#daimler_path">Daimler Path</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4167,10 +4112,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/year_datasets.md#apolloscape">ApolloScape</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#apolloscape">ApolloScape</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4201,7 +4146,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
 <li>Custom</li>
 
 </ul>
@@ -4229,8 +4174,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
-<li><a href="datasets/year_datasets.md#forking_paths">Forking Paths</a></li>
+<li><a href="datasets/datasets.md#virat/actev">VIRAT/ActEV</a></li>
+<li><a href="datasets/datasets.md#forking_paths">Forking Paths</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4258,7 +4203,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4287,12 +4232,12 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
-<li><a href="datasets/year_datasets.md#forking_paths">Forking Paths</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#virat/actev">VIRAT/ActEV</a></li>
+<li><a href="datasets/datasets.md#forking_paths">Forking Paths</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4318,8 +4263,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4349,9 +4294,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4380,7 +4325,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4406,9 +4351,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4434,8 +4379,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4499,10 +4444,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/year_datasets.md#wod">WOD</a></li>
-<li><a href="datasets/year_datasets.md#fit">FIT</a></li>
-<li><a href="datasets/year_datasets.md#mapillary_vistas">Mapillary Vistas</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#wod">WOD</a></li>
+<li><a href="datasets/datasets.md#fit">FIT</a></li>
+<li><a href="datasets/datasets.md#mapillary_vistas">Mapillary Vistas</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4529,7 +4474,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
 <li>Custom</li>
 
 </ul>
@@ -4558,9 +4503,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4589,8 +4534,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="datasets/year_datasets.md#highd">HighD</a></li>
+<li><a href="datasets/datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/datasets.md#highd">HighD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4616,7 +4561,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4673,7 +4618,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#cityperson">CityPerson</a></li>
+<li><a href="datasets/datasets.md#cityperson">CityPerson</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4726,8 +4671,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#town_center">Town Center</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4753,7 +4698,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#virat">VIRAT</a></li>
+<li><a href="datasets/datasets.md#virat">VIRAT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4780,7 +4725,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#osu">OSU</a></li>
+<li><a href="datasets/datasets.md#osu">OSU</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4817,10 +4762,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/year_datasets.md#apolloscape">ApolloScape</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#apolloscape">ApolloScape</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4851,8 +4796,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
-<li><a href="datasets/year_datasets.md#forking_paths">Forking Paths</a></li>
+<li><a href="datasets/datasets.md#virat/actev">VIRAT/ActEV</a></li>
+<li><a href="datasets/datasets.md#forking_paths">Forking Paths</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4880,7 +4825,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4909,12 +4854,12 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/year_datasets.md#virat/actev">VIRAT/ActEV</a></li>
-<li><a href="datasets/year_datasets.md#forking_paths">Forking Paths</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#virat/actev">VIRAT/ActEV</a></li>
+<li><a href="datasets/datasets.md#forking_paths">Forking Paths</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4940,8 +4885,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -4971,9 +4916,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5002,7 +4947,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5028,9 +4973,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5064,7 +5009,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#titan">TITAN</a></li>
+<li><a href="datasets/datasets.md#titan">TITAN</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5092,8 +5037,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="datasets/year_datasets.md#highd">HighD</a></li>
+<li><a href="datasets/datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/datasets.md#highd">HighD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5119,7 +5064,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5173,8 +5118,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="datasets/year_datasets.md#highd">HighD</a></li>
+<li><a href="datasets/datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/datasets.md#highd">HighD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5199,10 +5144,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5229,7 +5174,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#carla">CARLA</a></li>
+<li><a href="datasets/datasets.md#carla">CARLA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5292,7 +5237,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#carla">CARLA</a></li>
+<li><a href="datasets/datasets.md#carla">CARLA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5318,7 +5263,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#atc">ATC</a></li>
+<li><a href="datasets/datasets.md#atc">ATC</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5399,7 +5344,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#virat">VIRAT</a></li>
+<li><a href="datasets/datasets.md#virat">VIRAT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5426,8 +5371,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="datasets/year_datasets.md#mitt">MITT</a></li>
+<li><a href="datasets/datasets.md#gc">GC</a></li>
+<li><a href="datasets/datasets.md#mitt">MITT</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5487,7 +5432,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#atc">ATC</a></li>
+<li><a href="datasets/datasets.md#atc">ATC</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5568,7 +5513,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#osu">OSU</a></li>
+<li><a href="datasets/datasets.md#osu">OSU</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5605,8 +5550,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5631,7 +5576,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5774,7 +5719,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#osu">OSU</a></li>
+<li><a href="datasets/datasets.md#osu">OSU</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5811,7 +5756,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5836,7 +5781,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#fm">FM</a></li>
+<li><a href="datasets/datasets.md#fm">FM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5897,7 +5842,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5951,7 +5896,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#osu">OSU</a></li>
+<li><a href="datasets/datasets.md#osu">OSU</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -5988,8 +5933,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/year_datasets.md#carla">CARLA</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#carla">CARLA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6015,7 +5960,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/datasets.md#kitti">KITTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6050,7 +5995,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#hev-i">HEV-I</a></li>
+<li><a href="datasets/datasets.md#hev-i">HEV-I</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6076,9 +6021,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#dad">DAD</a></li>
-<li><a href="datasets/year_datasets.md#hev-i">HEV-I</a></li>
-<li><a href="datasets/year_datasets.md#a3d">A3D</a></li>
+<li><a href="datasets/datasets.md#dad">DAD</a></li>
+<li><a href="datasets/datasets.md#hev-i">HEV-I</a></li>
+<li><a href="datasets/datasets.md#a3d">A3D</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6140,8 +6085,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6239,7 +6184,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#atc">ATC</a></li>
+<li><a href="datasets/datasets.md#atc">ATC</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6301,8 +6246,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/year_datasets.md#carla">CARLA</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#carla">CARLA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6328,7 +6273,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/datasets.md#kitti">KITTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6363,7 +6308,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#hev-i">HEV-I</a></li>
+<li><a href="datasets/datasets.md#hev-i">HEV-I</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6389,9 +6334,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#dad">DAD</a></li>
-<li><a href="datasets/year_datasets.md#hev-i">HEV-I</a></li>
-<li><a href="datasets/year_datasets.md#a3d">A3D</a></li>
+<li><a href="datasets/datasets.md#dad">DAD</a></li>
+<li><a href="datasets/datasets.md#hev-i">HEV-I</a></li>
+<li><a href="datasets/datasets.md#a3d">A3D</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6425,10 +6370,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="datasets/year_datasets.md#chuk">CHUK</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#gc">GC</a></li>
+<li><a href="datasets/datasets.md#chuk">CHUK</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6455,8 +6400,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6491,7 +6436,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#btd">BTD</a></li>
+<li><a href="datasets/datasets.md#btd">BTD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6518,8 +6463,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6555,7 +6500,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#btd">BTD</a></li>
+<li><a href="datasets/datasets.md#btd">BTD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6582,8 +6527,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6619,7 +6564,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
 <li>Custom</li>
 
 </ul>
@@ -6650,8 +6595,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#town_center">Town Center</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6685,7 +6630,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6714,7 +6659,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ngsim">NGSIM</a></li>
+<li><a href="datasets/datasets.md#ngsim">NGSIM</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6750,10 +6695,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/year_datasets.md#wod">WOD</a></li>
-<li><a href="datasets/year_datasets.md#fit">FIT</a></li>
-<li><a href="datasets/year_datasets.md#mapillary_vistas">Mapillary Vistas</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#wod">WOD</a></li>
+<li><a href="datasets/datasets.md#fit">FIT</a></li>
+<li><a href="datasets/datasets.md#mapillary_vistas">Mapillary Vistas</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6780,7 +6725,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#cityscapes">Cityscapes</a></li>
+<li><a href="datasets/datasets.md#cityscapes">Cityscapes</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6813,7 +6758,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#titan">TITAN</a></li>
+<li><a href="datasets/datasets.md#titan">TITAN</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6849,8 +6794,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#wod">WOD</a></li>
-<li><a href="datasets/year_datasets.md#lyft">Lyft</a></li>
+<li><a href="datasets/datasets.md#wod">WOD</a></li>
+<li><a href="datasets/datasets.md#lyft">Lyft</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6885,8 +6830,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#wod">WOD</a></li>
-<li><a href="datasets/year_datasets.md#lyft">Lyft</a></li>
+<li><a href="datasets/datasets.md#wod">WOD</a></li>
+<li><a href="datasets/datasets.md#lyft">Lyft</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6956,8 +6901,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#strands">STRANDS</a></li>
-<li><a href="datasets/year_datasets.md#l-cas">L-CAS</a></li>
+<li><a href="datasets/datasets.md#strands">STRANDS</a></li>
+<li><a href="datasets/datasets.md#l-cas">L-CAS</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -6991,8 +6936,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#town_center">Town Center</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#town_center">Town Center</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7027,10 +6972,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/year_datasets.md#apolloscape">ApolloScape</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#apolloscape">ApolloScape</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7069,7 +7014,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
 <li>Custom</li>
 
 </ul>
@@ -7142,8 +7087,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#gc">GC</a></li>
-<li><a href="datasets/year_datasets.md#qmul">QMUL</a></li>
+<li><a href="datasets/datasets.md#gc">GC</a></li>
+<li><a href="datasets/datasets.md#qmul">QMUL</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7177,10 +7122,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/year_datasets.md#apolloscape">ApolloScape</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#apolloscape">ApolloScape</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7219,10 +7164,10 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
-<li><a href="datasets/year_datasets.md#apolloscape">ApolloScape</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#apolloscape">ApolloScape</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7261,7 +7206,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#osu">OSU</a></li>
+<li><a href="datasets/datasets.md#osu">OSU</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7298,7 +7243,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
 <li>Custom</li>
 
 </ul>
@@ -7372,7 +7317,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
 <li>Custom</li>
 
 </ul>
@@ -7411,7 +7356,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
 <li>Custom</li>
 
 </ul>
@@ -7450,8 +7395,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7489,8 +7434,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#nuscenes">nuScenes</a></li>
-<li><a href="datasets/year_datasets.md#argoverse">Argoverse</a></li>
+<li><a href="datasets/datasets.md#nuscenes">nuScenes</a></li>
+<li><a href="datasets/datasets.md#argoverse">Argoverse</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7528,9 +7473,9 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#ucy">UCY</a></li>
-<li><a href="datasets/year_datasets.md#eth">ETH</a></li>
-<li><a href="datasets/year_datasets.md#sd">SD</a></li>
+<li><a href="datasets/datasets.md#ucy">UCY</a></li>
+<li><a href="datasets/datasets.md#eth">ETH</a></li>
+<li><a href="datasets/datasets.md#sd">SD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7599,7 +7544,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#jaad">JAAD</a></li>
+<li><a href="datasets/datasets.md#jaad">JAAD</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7666,8 +7611,8 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
-<li><a href="datasets/year_datasets.md#carla">CARLA</a></li>
+<li><a href="datasets/datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/datasets.md#carla">CARLA</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7843,7 +7788,7 @@ By clicking on each metric you can see the list of papers that used that metric.
 <ul>
 <em>Datasets</em>
 <ul>
-<li><a href="datasets/year_datasets.md#kitti">KITTI</a></li>
+<li><a href="datasets/datasets.md#kitti">KITTI</a></li>
 </ul>
 <em>Metrics</em>
 <ul>
@@ -7935,4 +7880,4 @@ By clicking on each metric you can see the list of papers that used that metric.
 </details>
 </ul>
 </details>
-
+<a href=#top>&uarr; top</a>
