@@ -16,7 +16,7 @@
 
 <ul><a name=Fang_2020_CVPR/>
 <details close>
-<summary><strong><em>Fang et al., "TPNet: Trajectory Proposal Network for Motion Prediction", CVPR, 2020.</em></strong> <a href=https://arxiv.org/pdf/2004.12255.pdf>arxiv</a></summary>
+<summary><strong><em>Fang et al., "TPNet: Trajectory Proposal Network for Motion Prediction", CVPR, 2020.</em></strong> <a href=https://arxiv.org/pdf/2004.12255.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -52,7 +52,7 @@
 
 <a name=Makansi_2020_CVPR/>
 <details close>
-<summary><strong><em>Makansi et al., "Multimodal Future Localization and Emergence Prediction for Objects in Egocentric View With a Reachability Prior", CVPR, 2020.</em></strong>  <a href=https://arxiv.org/pdf/2006.04700.pdf>arxiv</a> <a href=https://github.com/lmb-freiburg/FLN-EPN-RPN>code</a></summary>
+<summary><strong><em>Makansi et al., "Multimodal Future Localization and Emergence Prediction for Objects in Egocentric View With a Reachability Prior", CVPR, 2020.</em></strong>  <a href=https://arxiv.org/pdf/2006.04700.pdf>paper</a> <a href=https://github.com/lmb-freiburg/FLN-EPN-RPN>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -84,7 +84,7 @@
 
 <a name=Malla_2020_CVPR/>
 <details close>
-<summary><strong><em>Malla et al., "TITAN: Future Forecast Using Action Priors", CVPR, 2020.</em></strong> <a href=https://arxiv.org/pdf/2003.13886.pdf>arxiv</a></summary>
+<summary><strong><em>Malla et al., "TITAN: Future Forecast Using Action Priors", CVPR, 2020.</em></strong> <a href=https://arxiv.org/pdf/2003.13886.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -114,7 +114,7 @@
 
 <a name=Mohamed_2020_CVPR/>
 <details close>
-<summary><strong><em>Mohamed et al., "Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction", CVPR, 2020.</em></strong> <a href=https://arxiv.org/pdf/2002.11927.pdf>arxiv</a> <a href=https://github.com/abduallahmohamed/Social-STGCNN>code</a></summary>
+<summary><strong><em>Mohamed et al., "Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction", CVPR, 2020.</em></strong> <a href=https://arxiv.org/pdf/2002.11927.pdf>paper</a> <a href=https://github.com/abduallahmohamed/Social-STGCNN>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -142,7 +142,7 @@
 
 <a name=Phan-Minh_2020_CVPR/>
 <details close>
-<summary><strong><em>Phan-Minh et al., "CoverNet: Multimodal Behavior Prediction Using Trajectory Sets", CVPR, 2020.</em></strong> <a href=https://arxiv.org/pdf/1911.10298.pdf>arxiv</a></summary>
+<summary><strong><em>Phan-Minh et al., "CoverNet: Multimodal Behavior Prediction Using Trajectory Sets", CVPR, 2020.</em></strong> <a href=https://arxiv.org/pdf/1911.10298.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -172,7 +172,7 @@
 
 <a name=Liang_2020_CVPR_2/>
 <details close>
-<summary><strong><em>Liang et al., "The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction", CVPR, 2020.</em></strong> <a href=https://arxiv.org/pdf/1912.06445.pdf>arxiv</a> <a href=https://github.com/JunweiLiang/Multiverse>code</a></summary>
+<summary><strong><em>Liang et al., "The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction", CVPR, 2020.</em></strong> <a href=https://arxiv.org/pdf/1912.06445.pdf>paper</a> <a href=https://github.com/JunweiLiang/Multiverse>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -203,7 +203,7 @@
 
 <a name=Sun_2020_CVPR_2/>
 <details close>
-<summary><strong><em>Sun et al., "Reciprocal Learning Networks for Human Trajectory Prediction", CVPR, 2020.</em></strong> <a href=https://arxiv.org/pdf/2004.04340.pdf>arxiv</a></summary>
+<summary><strong><em>Sun et al., "Reciprocal Learning Networks for Human Trajectory Prediction", CVPR, 2020.</em></strong> <a href=https://arxiv.org/pdf/2004.04340.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -232,7 +232,7 @@
 
 <a name=Liu_2020_ECCV_2/>
 <details close>
-<summary><strong><em>Liu et al., "SMART: Simultaneous Multi-Agent Recurrent Trajectory Prediction", ECCV, 2020.</em></strong> <a href=https://arxiv.org/pdf/2007.13078.pdf>arxiv</a></summary>
+<summary><strong><em>Liu et al., "SMART: Simultaneous Multi-Agent Recurrent Trajectory Prediction", ECCV, 2020.</em></strong> <a href=https://arxiv.org/pdf/2007.13078.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -263,7 +263,7 @@
 
 <a name=Liang_2020_ECCV/>
 <details close>
-<summary><strong><em>Liang et al., "SimAug: Learning Robust Representations from Simulation for Trajectory Prediction", ECCV, 2020.</em></strong> <a href=https://arxiv.org/pdf/2004.02022.pdf>arxiv</a> <a href=https://github.com/JunweiLiang/Multiverse/tree/master/SimAug>code</a></summary>
+<summary><strong><em>Liang et al., "SimAug: Learning Robust Representations from Simulation for Trajectory Prediction", ECCV, 2020.</em></strong> <a href=https://arxiv.org/pdf/2004.02022.pdf>paper</a> <a href=https://github.com/JunweiLiang/Multiverse/tree/master/SimAug>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -296,7 +296,7 @@
 
 <a name=Park_2020_ECCV/>
 <details close>
-<summary><strong><em>Park et al., "Diverse and Admissible Trajectory Forecasting through Multimodal Context Understanding", ECCV, 2020.</em></strong> <a href=https://arxiv.org/pdf/2003.03212.pdf>arxiv</a> <a href=https://github.com/kami93/CMU-DATF>code</a></summary>
+<summary><strong><em>Park et al., "Diverse and Admissible Trajectory Forecasting through Multimodal Context Understanding", ECCV, 2020.</em></strong> <a href=https://arxiv.org/pdf/2003.03212.pdf>paper</a> <a href=https://github.com/kami93/CMU-DATF>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -329,7 +329,7 @@
 
 <a name=Salzmann_2020_ECCV/>
 <details close>
-<summary><strong><em>Salzmann et al., "Trajectron++: Multi-agent generative trajectory forecasting with heterogeneous data for control", ECCV, 2020.</em></strong> <a href=https://arxiv.org/pdf/2001.03093.pdf>arxiv</a> <a href=https://github.com/StanfordASL/Trajectron-plus-plus>code</a></summary>
+<summary><strong><em>Salzmann et al., "Trajectron++: Multi-agent generative trajectory forecasting with heterogeneous data for control", ECCV, 2020.</em></strong> <a href=https://arxiv.org/pdf/2001.03093.pdf>paper</a> <a href=https://github.com/StanfordASL/Trajectron-plus-plus>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -362,7 +362,7 @@
 
 <a name=Weng_2020_ECCV/>
 <details close>
-<summary><strong><em>Weng et al., "Joint 3D Tracking and Forecasting with Graph Neural Network and Diversity Sampling", ECCV, 2020.</em></strong> <a href=https://arxiv.org/pdf/2003.07847>arxiv</a> </summary>
+<summary><strong><em>Weng et al., "Joint 3D Tracking and Forecasting with Graph Neural Network and Diversity Sampling", ECCV, 2020.</em></strong> <a href=https://arxiv.org/pdf/2003.07847>paper</a> </summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -393,7 +393,7 @@
 
 <a name=Yu_2020_ECCV/>
 <details close>
-<summary><strong><em>Yu et al., "Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction", ECCV, 2020.</em></strong> <a href=https://arxiv.org/pdf/2005.08514.pdf>arxiv</a></summary>
+<summary><strong><em>Yu et al., "Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction", ECCV, 2020.</em></strong> <a href=https://arxiv.org/pdf/2005.08514.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -422,7 +422,7 @@
 
 <a name=Haddad_2020_WACV/>
 <details close>
-<summary><strong><em>Haddad et al., "Self-Growing Spatial Graph Networks for Pedestrian Trajectory Prediction", WACV, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_WACV_2020/papers/Haddad_Self-Growing_Spatial_Graph_Networks_for_Pedestrian_Trajectory_Prediction_WACV_2020_paper.pdf>arxiv</a></summary>
+<summary><strong><em>Haddad et al., "Self-Growing Spatial Graph Networks for Pedestrian Trajectory Prediction", WACV, 2020.</em></strong> <a href=https://openaccess.thecvf.com/content_WACV_2020/papers/Haddad_Self-Growing_Spatial_Graph_Networks_for_Pedestrian_Trajectory_Prediction_WACV_2020_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -452,7 +452,7 @@
 
 <a name=Styles_2020_WACV/>
 <details close>
-<summary><strong><em>Styles et al., "Multiple Object Forecasting: Predicting Future Object Locations in Diverse Environments", WACV, 2020.</em></strong> <a href=https://arxiv.org/pdf/1909.11944.pdf>arxiv</a> <a href=https://github.com/olly-styles/Multiple-Object-Forecasting>code</a></summary>
+<summary><strong><em>Styles et al., "Multiple Object Forecasting: Predicting Future Object Locations in Diverse Environments", WACV, 2020.</em></strong> <a href=https://arxiv.org/pdf/1909.11944.pdf>paper</a> <a href=https://github.com/olly-styles/Multiple-Object-Forecasting>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -480,7 +480,7 @@
 
 <a name=Kawasaki_2020_ICRA/>
 <details close>
-<summary><strong><em>Kawasaki et al., "Multimodal Trajectory Predictions for Urban Environments Using Geometric Relationships between a Vehicle and Lanes", ICRA, 2020.</em></strong> <a href=https://ieeexplore.ieee.org/document/9196738>arxiv</a></summary>
+<summary><strong><em>Kawasaki et al., "Multimodal Trajectory Predictions for Urban Environments Using Geometric Relationships between a Vehicle and Lanes", ICRA, 2020.</em></strong> <a href=https://ieeexplore.ieee.org/document/9196738>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -510,7 +510,7 @@
 
 <a name=Chandra_2019_CVPR/>
 <details close>
-<summary><strong><em>Chandra et al., "Traphic: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions", CVPR, 2019.</em></strong> <a href=https://arxiv.org/pdf/1812.04767.pdf>arxiv</a> <a href=https://go.umd.edu/TraPHic>code</a></summary>
+<summary><strong><em>Chandra et al., "Traphic: Trajectory Prediction In Dense And Heterogeneous Traffic Using Weighted Interactions", CVPR, 2019.</em></strong> <a href=https://arxiv.org/pdf/1812.04767.pdf>paper</a> <a href=https://go.umd.edu/TraPHic>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -539,7 +539,7 @@
 
 <a name=Li_2019_CVPR/>
 <details close>
-<summary><strong><em>Li, "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Which_Way_Are_You_Going_Imitative_Decision_Learning_for_Path_CVPR_2019_paper.pdf>arxiv</a></summary>
+<summary><strong><em>Li, "Which Way Are You Going? Imitative Decision Learning For Path Forecasting In Dynamic Scenes", CVPR, 2019.</em></strong> <a href=https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Which_Way_Are_You_Going_Imitative_Decision_Learning_for_Path_CVPR_2019_paper.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -569,7 +569,7 @@
 
 <a name=Liang_2019_CVPR/>
 <details close>
-<summary><strong><em>Liang et al., "Peeking Into The Future: Predicting Future Person Activities And Locations In Videos", CVPR, 2019.</em></strong> <a href=https://arxiv.org/pdf/1902.03748.pdf>arxiv</a> <a href=https://github.com/google/next-prediction>code</a></summary>
+<summary><strong><em>Liang et al., "Peeking Into The Future: Predicting Future Person Activities And Locations In Videos", CVPR, 2019.</em></strong> <a href=https://arxiv.org/pdf/1902.03748.pdf>paper</a> <a href=https://github.com/google/next-prediction>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -628,7 +628,7 @@
 
 <a name=Kosaraju_2019_NeurIPS/>
 <details close>
-<summary><strong><em>Kosaraju et al., "Social-Bigat: Multimodal Trajectory Forecasting Using Bicycle-Gan And Graph Attention Networks", NeurIPS, 2019.</em></strong> <a href=https://arxiv.org/pdf/1907.03395.pdf>arxiv</a></summary>
+<summary><strong><em>Kosaraju et al., "Social-Bigat: Multimodal Trajectory Forecasting Using Bicycle-Gan And Graph Attention Networks", NeurIPS, 2019.</em></strong> <a href=https://arxiv.org/pdf/1907.03395.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -657,7 +657,7 @@
 
 <a name=Cui_2019_ICRA/>
 <details close>
-<summary><strong><em>Cui et al., "Multimodal Trajectory Predictions For Autonomous Driving Using Deep Convolutional Networks", ICRA, 2019.</em></strong> <a href=https://arxiv.org/pdf/1809.10732.pdf>arxiv</a></summary>
+<summary><strong><em>Cui et al., "Multimodal Trajectory Predictions For Autonomous Driving Using Deep Convolutional Networks", ICRA, 2019.</em></strong> <a href=https://arxiv.org/pdf/1809.10732.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -686,7 +686,7 @@
 
 <a name=Anderson_2019_IROS/>
 <details close>
-<summary><strong><em>Anderson et al., "Stochastic Sampling Simulation For Pedestrian Trajectory Prediction", IROS, 2019.</em></strong> <a href=https://arxiv.org/pdf/1903.01860.pdf>arxiv</a></summary>
+<summary><strong><em>Anderson et al., "Stochastic Sampling Simulation For Pedestrian Trajectory Prediction", IROS, 2019.</em></strong> <a href=https://arxiv.org/pdf/1903.01860.pdf>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -716,7 +716,7 @@
 
 <a name=Cho_2019_IROS/>
 <details close>
-<summary><strong><em>Cho et al., "Deep Predictive Autonomous Driving Using Multi-Agent Joint Trajectory Prediction And Traffic Rules", IROS, 2019.</em></strong></summary>
+<summary><strong><em>Cho et al., "Deep Predictive Autonomous Driving Using Multi-Agent Joint Trajectory Prediction And Traffic Rules", IROS, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8967708>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -743,7 +743,7 @@
 
 <a name=Srikanth_2019_IROS/>
 <details close>
-<summary><strong><em>Srikanth et al., "Infer: Intermediate Representations For Future Prediction", IROS, 2019.</em></strong> <a href=https://arxiv.org/pdf/1903.10641.pdf>arxiv</a> <a href=https://rebrand.ly/INFER-results>code</a></summary>
+<summary><strong><em>Srikanth et al., "Infer: Intermediate Representations For Future Prediction", IROS, 2019.</em></strong> <a href=https://arxiv.org/pdf/1903.10641.pdf>paper</a> <a href=https://rebrand.ly/INFER-results>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -772,7 +772,7 @@
 
 <a name=Xue_2019_WACV/>
 <details close>
-<summary><strong><em>Xue et al., "Location-Velocity Attention For Pedestrian Trajectory Prediction", WACV, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8659060>arxiv</a></summary>
+<summary><strong><em>Xue et al., "Location-Velocity Attention For Pedestrian Trajectory Prediction", WACV, 2019.</em></strong> <a href=https://ieeexplore.ieee.org/document/8659060>paper</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -803,7 +803,7 @@
 
 <a name=Bhattacharyya_2018_CVPR/>
 <details close>
-<summary><strong><em>Bhattacharyya et al., "Long-Term On-Board Prediction Of People In Traffic Scenes Under Uncertainty", CVPR, 2018.</em></strong> <a href=https://arxiv.org/pdf/1711.09026.pdf>arxiv</a> <a href=https://github.com/apratimbhattacharyya18/onboard_long_term_prediction>code</a></summary>
+<summary><strong><em>Bhattacharyya et al., "Long-Term On-Board Prediction Of People In Traffic Scenes Under Uncertainty", CVPR, 2018.</em></strong> <a href=https://arxiv.org/pdf/1711.09026.pdf>paper</a> <a href=https://github.com/apratimbhattacharyya18/onboard_long_term_prediction>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -831,7 +831,7 @@
 
 <a name=Gupta_2018_CVPR/>
 <details close>
-<summary><strong><em>Gupta et al., "Social Gan: Socially Acceptable Trajectories With Generative Adversarial Networks", CVPR, 2018.</em></strong> <a href=https://arxiv.org/pdf/1803.10892.pdf>arxiv</a> <a href=https://github.com/agrimgupta92/sgan>code</a></summary>
+<summary><strong><em>Gupta et al., "Social Gan: Socially Acceptable Trajectories With Generative Adversarial Networks", CVPR, 2018.</em></strong> <a href=https://arxiv.org/pdf/1803.10892.pdf>paper</a> <a href=https://github.com/agrimgupta92/sgan>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
@@ -860,7 +860,7 @@
 
 <a name=Yagi_2018_CVPR/>
 <details close>
-<summary><strong><em>Yagi et al., "Future Person Localization in First-Person Videos", CVPR, 2018.</em></strong> <a href=https://arxiv.org/pdf/1711.11217.pdf>arxiv</a> <a href=https://github.com/takumayagi/fpl>code</a></summary>
+<summary><strong><em>Yagi et al., "Future Person Localization in First-Person Videos", CVPR, 2018.</em></strong> <a href=https://arxiv.org/pdf/1711.11217.pdf>paper</a> <a href=https://github.com/takumayagi/fpl>code</a></summary>
 <ul>
 <em>Datasets</em>
 <ul>
